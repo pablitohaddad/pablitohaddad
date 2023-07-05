@@ -6,7 +6,7 @@
   </h1>
   
   <p align="center">
-   Sou um cientista de dados que ama compartilhar os seus códigos aqui no github
+   Sou um cientista de dados que ama compartilhar códigos aqui no github
     
   </p>
   
