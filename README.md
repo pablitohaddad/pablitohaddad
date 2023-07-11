@@ -18,8 +18,7 @@
 
 <div align="center">
   <a href="github.com/pablitohaddad">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=pablitohaddad&theme=highcontrast&show_icons=true"/>
-    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pablitohaddad&theme=highcontrast&hide_border=true&&layout=compact"/>
+    <a href="https://github.com/pablitohaddad/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=pablitohaddad&show_icons=true&include_all_commits=true&theme=highcontrast&hide_border=true" alt="Pablito's github stats" /></a> | <a href="https://github.com/pablitohaddad/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pablitohaddad&layout=compact&theme=highcontrast&hide_border=true" /></a>
   </a>
 </div>
 
