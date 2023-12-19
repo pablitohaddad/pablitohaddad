@@ -4,11 +4,7 @@
    Olá, sou o 
     <a href="https://www.linkedin.com/in/pablo-haddad-b038121ba/"><i>Pablo Haddad</i>🫡</a>
   </h1>
-  
-  <p align="center">
-   Sou um cientista de dados que ama compartilhar códigos aqui no github
-    
-  </p>
+
   
   <p align="center">
     Me siga aqui e venha codar comigo, vamos crescer juntos!
