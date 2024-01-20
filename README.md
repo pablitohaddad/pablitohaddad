@@ -1,16 +1,16 @@
 <div>
   
   <h1 align="center">
-   Olá, meu nome é 
+   Hi, my name is 
     <a href="https://www.linkedin.com/in/pablo-haddad-b038121ba/"><i>Pablo Haddad</i>🫡</a>
   </h1>
 
    <p align="center">
-    Sou estagário da CompassUol. Trabalho desenvolvendo aplicações em java.
+   I am an intern at CompassUol, specializing in Java development.
   </p>
   
   <p align="center">
-    Me siga aqui e venha codar comigo, vamos crescer juntos!
+    Follow me and come code with me, let's grow together!
   </p>
   
 </div>
