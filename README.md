@@ -6,7 +6,7 @@
   </h1>
 
    <p align="center">
-   I am an Back end Developer, specializing in Java development.
+   I am a Back end Developer, specializing in Java development.
   </p>
   
   <p align="center">
